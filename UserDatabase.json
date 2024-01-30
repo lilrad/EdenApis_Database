@@ -1,14 +1,3 @@
-[
-    {
-        "playerusername": "PlayerOne",
-        "accesslevel": 1
-    },
-    {
-        "playerusername": "PlayerTwo",
-        "accesslevel": 2
-    },
-    {
-        "playerusername": "PlayerThree",
-        "accesslevel": 0
-    }
-]
+{ "playerusername": "PlayerOne", "accesslevel": 1 }
+{ "playerusername": "PlayerTwo", "accesslevel": 2 }
+{ "playerusername": "PlayerThree", "accesslevel": 0 }
