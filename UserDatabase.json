@@ -1,14 +1,14 @@
 [
     {
-        "playerusername": "UserOne",
-        "accesslevel": "VIP"
+        "playerusername": "PlayerOne",
+        "accesslevel": 1
     },
     {
-        "playerusername": "UserTwo",
-        "accesslevel": "Standard"
+        "playerusername": "PlayerTwo",
+        "accesslevel": 2
     },
     {
-        "playerusername": "UserThree",
-        "accesslevel": "VIP"
+        "playerusername": "PlayerThree",
+        "accesslevel": 0
     }
 ]
