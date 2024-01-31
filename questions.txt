@@ -1,13 +1,18 @@
-[
-    [
-        "Never have I ever question 1 from set 1.",
-        "Never have I ever question 2 from set 1.",
-
-    ],
-    [
-        "Never have I ever question 1 from set 2.",
-        "Never have I ever question 2 from set 2.",
-
-    ],
-
-]
+{
+  "sets": [
+    {
+      "title": "Set 1 Title",
+      "questions": [
+        "Question 1 from Set 1",
+        "Question 2 from Set 1"
+      ]
+    },
+    {
+      "title": "Set 2 Title",
+      "questions": [
+        "Question 1 from Set 2",
+        "Question 2 from Set 2"
+      ]
+    }
+  ]
+}
