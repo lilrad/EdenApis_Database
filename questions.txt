@@ -1,17 +1,17 @@
 {
   "sets": [
     {
-      "title": "Set 1 Title",
+      "title": "Fun Questions",
       "questions": [
-        "Question 1 from Set 1",
-        "Question 2 from Set 1"
+        "Never have I ever danced in the rain.",
+        "Never have I ever sung karaoke."
       ]
     },
     {
-      "title": "Set 2 Title",
+      "title": "Travel Questions",
       "questions": [
-        "Question 1 from Set 2",
-        "Question 2 from Set 2"
+        "Never have I ever traveled to another continent.",
+        "Never have I ever visited all 50 US states."
       ]
     }
   ]
