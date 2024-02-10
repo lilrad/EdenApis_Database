@@ -1,4 +1,5 @@
 {"playerusername": "xxlilradxx", "accesslevel": 10, "verified": 1}
+{"playerusername": "-lolmaxz-", "accesslevel": 10, "verified": 1}
 {"playerusername": "User1", "accesslevel": 0, "verified": 0}
 {"playerusername": "User2", "accesslevel": 1, "verified": 0}
 {"playerusername": "User3", "accesslevel": 2, "verified": 1}
